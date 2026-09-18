@@ -1,0 +1,4 @@
+# Smart Energy AI - the only runtime dependency.
+# Analytics, forecasting and anomaly detection use the Python standard library,
+# so there is nothing heavy to compile and no paid service to sign up for.
+Flask>=3.0,<4.0
